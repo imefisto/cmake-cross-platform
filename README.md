@@ -6,7 +6,7 @@ To create build folders:
 
 To build:
 
-ninja -C build/<platform>
+ninja -C build/\<platform\>
 
 References:
 
